@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-🎓 I am a sophomore at UNC Chapel Hill studying computer science. I have a deep interest in computer science because I enjoy solving problems and want to build things that work efficiently and help make people's everyday life easier. I like computer science as it can be applied to real world problems and solve those problems in a creative and effective way. 
+🎓 I am a junior at UNC Chapel Hill studying information science and economics. 
 
-🤖 I am interested in pursuing a career as a Software engineer or Web developer. 
+🤖 I am interested in pursuing a career as an UI/UX designer. 
 
 🌱 In my free time, I enjoy trying a lot of different things. I enjoy doing nails, learning new songs on guitar, cooking, travelling and camping with my friends and family. 
 
